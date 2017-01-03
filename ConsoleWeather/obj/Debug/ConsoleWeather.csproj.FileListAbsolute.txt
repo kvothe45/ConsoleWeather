@@ -1,0 +1,6 @@
+C:\Users\texas\OneDrive\programs\ConsoleWeather\ConsoleWeather\bin\Debug\ConsoleWeather.exe.config
+C:\Users\texas\OneDrive\programs\ConsoleWeather\ConsoleWeather\bin\Debug\ConsoleWeather.exe
+C:\Users\texas\OneDrive\programs\ConsoleWeather\ConsoleWeather\bin\Debug\ConsoleWeather.pdb
+C:\Users\texas\OneDrive\programs\ConsoleWeather\ConsoleWeather\obj\Debug\ConsoleWeather.csprojResolveAssemblyReference.cache
+C:\Users\texas\OneDrive\programs\ConsoleWeather\ConsoleWeather\obj\Debug\ConsoleWeather.exe
+C:\Users\texas\OneDrive\programs\ConsoleWeather\ConsoleWeather\obj\Debug\ConsoleWeather.pdb
